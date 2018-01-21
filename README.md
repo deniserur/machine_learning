@@ -3,7 +3,7 @@
 # Clases
 + 16 Semanas = 32 Clases
 
-## 1
++ 1
     1.1 Introducción
     1.2 Puntaje Crediticio
 ## 2

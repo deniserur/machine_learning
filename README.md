@@ -4,8 +4,8 @@
 + 16 Semanas = 32 Clases
 
 + 1
-    1.1 Introducción
-    1.2 Puntaje Crediticio
+    - 1.1 Introducción
+    - 1.2 Puntaje Crediticio
 ## 2
     2.1 Modelo experto (German data)
 ## 3
